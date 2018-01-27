@@ -38,7 +38,7 @@
 ![无显示替换文本](http://img.zcool.cn/community/01690955496f930000019ae92f3a4e.jpg@2o.jpg "鼠标悬停显示")  
 ![无显示替换文本](https://www.baidu.com/img/bd_logo1.png "鼠标悬停显示")  
 - 内部调用:  
-![无显示替换文本,可为空](./test.jpg "鼠标悬停显示")  
+![无显示替换文本,可为空](images/test.jpg "鼠标悬停显示")  
 - 引用连接写法1:  
 ![无显示替换文本][图片1]
 
