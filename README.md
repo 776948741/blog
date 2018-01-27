@@ -27,70 +27,18 @@
 ## 链接  
 - 外部链接：[百度](http://www.baidu.com)
 - 内部连接: [代码块](README.md#代码块)
+外部连接引用写法1：[百度]
+外部连接引用写法1：[百度][baidu]
 
+[百度]: http://www.baidu.com
+[baidu]: http://www.baidu.com
 
 ## 图片  
 
 ## 引用  
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## 代码块  
+
+
+
