@@ -26,9 +26,9 @@
 
 ## 链接  
 - 外部链接: [百度](http://www.baidu.com)
-- 内部连接: [代码块](README.md#代码块). 
-- 外部连接引用写法1: [百度]  
-- 外部连接引用写法2: [百度][baidu] 
+- 内部连接: [代码块](README.md#代码块)  
+- 引用连接写法1: [百度]  
+- 引用连接写法2: [百度][baidu] 
 
 [百度]: http://www.baidu.com
 [baidu]: http://www.baidu.com
@@ -39,6 +39,13 @@
 ![无显示替换文本](https://www.baidu.com/img/bd_logo1.png "鼠标悬停显示")  
 - 内部调用:  
 ![无显示替换文本,可为空](./test.jpg "鼠标悬停显示")  
+- 引用连接写法1:  
+![无显示替换文本][图片1]
+
+[图片1]: https://www.baidu.com/img/bd_logo1.png
+
+
+
 
 ## 引用  
 
