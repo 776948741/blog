@@ -54,5 +54,28 @@
 
 ## 代码块  
 
+shell声明一个变量为`abc=1`,输出一个变量为`echo ${abc}`
+```bash
+#!/bin/bash
+for a in `cat a.txt`
+do
+    akey=`echo ${a}|awk -F "," {'print $1'}`
+    avalue=`echo ${a}|awk -F "," {'print $2'}`
+    for b in `cat b.txt`
+    do
+        bkey=`echo ${b} |awk -F "," {'print $1'}`
+        bvalue=`echo ${b} |awk -F "," {'print $2'}`
+        if [ ${bkey} == ${akey} ]
+        then
+            if [ ${avalue} == ${bvalue} ]
+            then
+                echo ${akey},${avalue} >>c.txt
+            fi
+        fi
+    done
+done
+    echo ${akey} >>c.txt
+    echo ${bkey} >>c.txt
+```
 
 
