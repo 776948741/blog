@@ -112,6 +112,6 @@ task list
 
 
 emoji 符号
-[emoji查找连接](http://www.oicqzone.com/tool/emoji/)  
+[emoji查找连接](http://emoji.muan.co/)  
 :foggy:  
 :cyclone:
