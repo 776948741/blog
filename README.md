@@ -111,3 +111,7 @@ task list
 -  [ ] task 3
 
 
+emoji 符号
+[emoji查找连接](http://www.oicqzone.com/tool/emoji/)  
+:foggy:  
+:cyclone:
